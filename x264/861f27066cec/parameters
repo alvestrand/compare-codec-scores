@@ -1,0 +1,1 @@
+--preset slow --threads 3 --tune psnr

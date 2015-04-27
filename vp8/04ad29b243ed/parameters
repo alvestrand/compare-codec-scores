@@ -1,0 +1,1 @@
+--buf-sz=500 --cpu-used=-6 --good --min-q=8 --undershoot-pct=100

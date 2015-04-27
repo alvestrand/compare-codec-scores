@@ -1,0 +1,1 @@
+--best --buf-sz=2000 --end-usage=vbr --max-q=32 --min-q=8 --overshoot-pct=0 --undershoot-pct=0

@@ -1,0 +1,7 @@
+{
+  "encode_cputime": 8500.649999999994, 
+  "decode_cputime": 8.130000000004657, 
+  "psnr": 40.325, 
+  "bitrate": 277, 
+  "cliptime": 10.0
+}

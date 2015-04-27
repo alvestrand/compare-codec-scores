@@ -1,0 +1,1 @@
+--buf-initial-sz=4000 --buf-sz=4000 --cpu-used=-10 --end-usage=cbr --max-intra-rate=100 --max-q=56 --min-q=4 --rt --undershoot-pct=25

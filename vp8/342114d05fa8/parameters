@@ -1,0 +1,1 @@
+--best --buf-initial-sz=200 --end-usage=cbr --max-intra-rate=800 --min-q=4 --overshoot-pct=0

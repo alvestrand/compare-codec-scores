@@ -1,0 +1,1 @@
+--buf-initial-sz=400 --end-usage=vbr --good --max-intra-rate=800 --max-q=56 --min-q=8 --undershoot-pct=50
