@@ -1,0 +1,1 @@
+--buf-initial-sz=800 --buf-sz=500 --cpu-used=-6 --good --max-intra-rate=1200 --overshoot-pct=0

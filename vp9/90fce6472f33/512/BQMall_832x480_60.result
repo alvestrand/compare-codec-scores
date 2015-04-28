@@ -1,7 +1,7 @@
 {
-  "decode_cputime": 0.8999999999650754, 
+  "decode_cputime": 1.0899999999965075, 
   "psnr": 33.007, 
-  "encode_cputime": 73.39000000001397, 
+  "encode_cputime": 73.0800000000163, 
   "frame": [
     {
       "size": 256880

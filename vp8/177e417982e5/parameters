@@ -1,0 +1,1 @@
+--cpu-used=-1 --end-usage=cbr --max-intra-rate=600 --min-q=0 --rt --undershoot-pct=0

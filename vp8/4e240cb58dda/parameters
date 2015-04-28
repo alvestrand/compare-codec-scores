@@ -1,0 +1,1 @@
+--best --buf-initial-sz=1000 --buf-optimal-sz=1000 --buf-sz=2000 --cpu-used=0 --drop-frame=0 --drop-frame=0 --end-usage=cbr --kf-max-dist=3000 --kf-min-dist=3000 --lag-in-frames=0 --max-intra-rate=1200 --max-q=32 --min-q=0 --noise-sensitivity=0 --overshoot-pct=45 --passes=1 --resize-allowed=0 --static-thresh=0 --token-parts=1
