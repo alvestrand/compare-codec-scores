@@ -1,0 +1,1 @@
+--preset ultrafast --rc-lookahead 0 --threads 6

@@ -1,0 +1,1 @@
+--preset superfast --profile baseline --rc-lookahead 0 --ref 1 --threads 1

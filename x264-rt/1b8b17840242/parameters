@@ -1,0 +1,1 @@
+--preset slow --rc-lookahead 0 --ref 1 --threads 5 --tune psnr

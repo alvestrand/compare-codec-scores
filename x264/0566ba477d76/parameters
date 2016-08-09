@@ -1,0 +1,1 @@
+--preset placebo --threads 6 --tune psnr

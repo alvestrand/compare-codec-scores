@@ -1,0 +1,1 @@
+--preset faster --threads 5 --tune psnr

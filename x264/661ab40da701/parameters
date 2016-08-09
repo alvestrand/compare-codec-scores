@@ -1,0 +1,1 @@
+--preset veryfast --profile baseline --ref 2 --threads 1 --tune psnr

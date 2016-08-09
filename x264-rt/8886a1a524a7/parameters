@@ -1,0 +1,1 @@
+--rc-lookahead 0 --threads 2 --tune psnr --vbv-init 0.9

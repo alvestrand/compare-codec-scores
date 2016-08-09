@@ -1,0 +1,1 @@
+--preset ultrafast --profile baseline --rc-lookahead 60 --ref 1 --threads 1 --tune psnr

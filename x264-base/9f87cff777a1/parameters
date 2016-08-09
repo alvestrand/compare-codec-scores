@@ -1,0 +1,1 @@
+--preset medium --profile baseline --rc-lookahead 0 --threads 1 --tune psnr

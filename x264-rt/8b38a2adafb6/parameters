@@ -1,0 +1,1 @@
+--preset ultrafast --rc-lookahead 0 --ref 2 --threads 4 --tune ssim

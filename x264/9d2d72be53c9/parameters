@@ -1,0 +1,1 @@
+--threads 6 --tune psnr --vbv-init 0.8

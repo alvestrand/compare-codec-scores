@@ -1,0 +1,1 @@
+--preset medium --rc-lookahead 0 --ref 16 --threads 2 --tune psnr

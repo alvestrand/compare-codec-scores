@@ -1,0 +1,1 @@
+--preset veryfast --profile main --rc-lookahead 0 --ref 1 --threads 4 --tune psnr --vbv-init 0.8

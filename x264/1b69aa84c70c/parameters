@@ -1,0 +1,1 @@
+--preset veryfast --profile main --threads 3 --tune psnr

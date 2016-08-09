@@ -1,0 +1,1 @@
+--preset veryfast --profile baseline --rc-lookahead 60 --ref 16 --threads 2 --tune psnr

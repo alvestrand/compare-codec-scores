@@ -1,0 +1,1 @@
+--profile baseline --rc-lookahead 30 --ref 1 --threads 1 --tune psnr

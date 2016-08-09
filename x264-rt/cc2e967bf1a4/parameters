@@ -1,0 +1,1 @@
+--preset placebo --rc-lookahead 0 --ref 3 --threads 4 --tune psnr

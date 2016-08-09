@@ -1,0 +1,1 @@
+--preset superfast --rc-lookahead 0 --ref 1 --threads 1 --tune psnr --vbv-init 0.5

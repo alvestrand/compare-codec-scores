@@ -1,0 +1,1 @@
+--preset faster --profile baseline --rc-lookahead 0 --ref 1 --threads 1 --tune ssim

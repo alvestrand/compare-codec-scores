@@ -1,0 +1,1 @@
+--preset ultrafast --profile main --rc-lookahead 0 --threads 4

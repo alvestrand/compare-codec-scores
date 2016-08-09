@@ -1,0 +1,1 @@
+--preset faster --profile baseline --ref 1 --threads 2 --tune psnr --vbv-init 0.9

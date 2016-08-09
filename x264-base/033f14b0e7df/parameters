@@ -1,0 +1,1 @@
+--preset superfast --profile baseline --rc-lookahead 60 --threads 1 --tune psnr --vbv-init 0.8

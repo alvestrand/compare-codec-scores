@@ -1,0 +1,1 @@
+--preset faster --profile main --rc-lookahead 0 --ref 3 --threads 3 --tune psnr

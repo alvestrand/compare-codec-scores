@@ -1,0 +1,1 @@
+--preset fast --profile baseline --rc-lookahead 0 --threads 1 --vbv-init 0.5

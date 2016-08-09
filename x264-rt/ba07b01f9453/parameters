@@ -1,0 +1,1 @@
+--preset faster --rc-lookahead 0 --ref 3 --threads 4 --tune psnr --vbv-init 0.8

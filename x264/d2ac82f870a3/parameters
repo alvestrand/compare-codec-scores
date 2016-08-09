@@ -1,0 +1,1 @@
+--preset veryfast --rc-lookahead 60 --ref 3 --threads 1 --tune psnr

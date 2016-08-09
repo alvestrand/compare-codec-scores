@@ -1,0 +1,1 @@
+--preset medium --profile baseline --threads 1 --tune psnr

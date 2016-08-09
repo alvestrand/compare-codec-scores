@@ -1,0 +1,1 @@
+--profile high --threads 1 --tune psnr

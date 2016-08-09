@@ -1,0 +1,1 @@
+--preset veryfast --profile main --rc-lookahead 30 --threads 1 --tune psnr

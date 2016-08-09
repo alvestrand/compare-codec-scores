@@ -1,0 +1,1 @@
+--profile high --rc-lookahead 0 --threads 3 --tune psnr

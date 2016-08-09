@@ -1,0 +1,1 @@
+--preset fast --ref 1 --threads 1 --tune psnr
